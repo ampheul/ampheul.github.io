@@ -3,7 +3,8 @@
     margin: 0;
 }
 body {
-    background-image: url(hobbit.jpg);
+    /*background-image: url(hobbit.jpg);*/
+    background-color: #8B0000;
     background-repeat: repeat;
 }
 
